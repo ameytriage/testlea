@@ -20,31 +20,31 @@ require (
 	github.com/aquasecurity/go-dep-parser v0.0.0-20231120074854-8322cc2242bf
 	github.com/aquasecurity/trivy v0.48.3
 	github.com/aquasecurity/trivy-db v0.0.0-20240220070059-88dc6466aa40
-	github.com/aws/aws-sdk-go v1.51.21
-	github.com/aws/aws-sdk-go-v2 v1.26.1
-	github.com/aws/aws-sdk-go-v2/config v1.27.11
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.11
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.1
-	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.29.1
-	github.com/aws/aws-sdk-go-v2/service/autoscaling v1.40.5
-	github.com/aws/aws-sdk-go-v2/service/cloudformation v1.50.0
-	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.39.2
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.38.0
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.35.1
-	github.com/aws/aws-sdk-go-v2/service/configservice v1.46.5
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.156.0
-	github.com/aws/aws-sdk-go-v2/service/ecr v1.27.4
-	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancing v1.24.4
-	github.com/aws/aws-sdk-go-v2/service/iam v1.32.0
-	github.com/aws/aws-sdk-go-v2/service/kms v1.31.0
-	github.com/aws/aws-sdk-go-v2/service/organizations v1.27.3
-	github.com/aws/aws-sdk-go-v2/service/rds v1.77.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.53.1
-	github.com/aws/aws-sdk-go-v2/service/s3control v1.44.5
-	github.com/aws/aws-sdk-go-v2/service/securityhub v1.47.2
-	github.com/aws/aws-sdk-go-v2/service/sns v1.29.4
-	github.com/aws/aws-sdk-go-v2/service/sts v1.28.6
-	github.com/aws/smithy-go v1.20.2
+	github.com/aws/aws-sdk-go v1.54.12
+	github.com/aws/aws-sdk-go-v2 v1.30.1
+	github.com/aws/aws-sdk-go-v2/config v1.27.23
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.23
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.9
+	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.32.1
+	github.com/aws/aws-sdk-go-v2/service/autoscaling v1.43.1
+	github.com/aws/aws-sdk-go-v2/service/cloudformation v1.53.1
+	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.42.1
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.40.1
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.37.1
+	github.com/aws/aws-sdk-go-v2/service/configservice v1.48.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.167.1
+	github.com/aws/aws-sdk-go-v2/service/ecr v1.30.1
+	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancing v1.26.1
+	github.com/aws/aws-sdk-go-v2/service/iam v1.34.1
+	github.com/aws/aws-sdk-go-v2/service/kms v1.35.1
+	github.com/aws/aws-sdk-go-v2/service/organizations v1.29.1
+	github.com/aws/aws-sdk-go-v2/service/rds v1.81.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.57.1
+	github.com/aws/aws-sdk-go-v2/service/s3control v1.46.1
+	github.com/aws/aws-sdk-go-v2/service/securityhub v1.51.1
+	github.com/aws/aws-sdk-go-v2/service/sns v1.31.1
+	github.com/aws/aws-sdk-go-v2/service/sts v1.30.1
+	github.com/aws/smithy-go v1.20.3
 	github.com/dgraph-io/ristretto v0.1.1
 	github.com/djherbis/times v1.6.0
 	github.com/elastic/beats/v7 v7.0.0-alpha2.0.20240329010145-f871b5c5f76b
@@ -181,19 +181,19 @@ require (
 	github.com/aquasecurity/trivy-java-db v0.0.0-20230209231723-7cddb1406728 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.2 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.5 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.5 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.3 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.13 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.13 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.0 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.5 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ebs v1.21.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancingv2 v1.21.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.3.7 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.7 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.17.5 // indirect
-	github.com/aws/aws-sdk-go-v2/service/sso v1.20.5 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.23.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.3 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.3.15 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.15 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.17.13 // indirect
+	github.com/aws/aws-sdk-go-v2/service/sso v1.22.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.26.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bmatcuk/doublestar/v4 v4.6.0 // indirect
